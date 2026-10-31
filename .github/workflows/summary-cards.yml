@@ -1,28 +1,31 @@
-name: profile-summary-cards
+name: Profile · Summary Cards
 
 on:
   schedule:
-    - cron: "30 18 * * *"
+    - cron: "59 18 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/summary-cards.yml"
 
 permissions:
   contents: write
 
+concurrency:
+  group: profile-summary-cards
+  cancel-in-progress: false
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate profile summary cards
+      - uses: actions/checkout@v4
+      - name: Generate light-on-dark profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: zhan-cm
+          USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: 8
           AUTO_PUSH: true
