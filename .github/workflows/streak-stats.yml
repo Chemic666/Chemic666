@@ -19,7 +19,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Render dark streak
         uses: DenverCoder1/github-readme-streak-stats@v1
