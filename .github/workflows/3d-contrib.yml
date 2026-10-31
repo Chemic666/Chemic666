@@ -1,31 +1,35 @@
-name: profile-3d-contrib
+name: Profile · 3D Contribution City
 
 on:
   schedule:
-    - cron: "0 19 * * *"
+    - cron: "17 19 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/3d-contrib.yml"
 
 permissions:
   contents: write
 
+concurrency:
+  group: profile-3d-contrib
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-
     steps:
-      - uses: actions/checkout@v5
-
+      - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: zhan-cm
-
-      - name: Commit & Push
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit updated visualization
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          if git commit -m "chore: update 3d contributions"; then
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(profile): refresh 3D contributions [skip ci]"
             git push
           fi
