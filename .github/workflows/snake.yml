@@ -1,36 +1,34 @@
-name: generate animation
+name: Profile · Contribution Snake
 
 on:
-  # 每天自动运行一次
   schedule:
-    - cron: "0 0 * * *" 
-  
-  # 允许你手动点击运行
+    - cron: "43 20 * * *"
   workflow_dispatch:
-  
-  # 每次你 push 到主分支时也会更新
   push:
-    branches:
-    - main
-    - master
+    paths:
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-snake
+  cancel-in-progress: false
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: Render light and dark contribution snakes
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: zhan-cm
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: push github-contribution-grid-snake.svg to the output branch
+
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
