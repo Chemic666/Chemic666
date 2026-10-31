@@ -28,5 +28,25 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: 8
-          AUTO_PUSH: true
+          # Commit in a separate step to tolerate parallel profile updates.
+          AUTO_PUSH: false
+
+      - name: Commit cards with retry
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(profile): refresh summary cards [skip ci]"
+            for attempt in 1 2 3; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                exit 0
+              fi
+              sleep 3
+            done
+            echo "Could not push summary cards after three retries" >&2
+            exit 1
+          fi
           THEME: github_dark
