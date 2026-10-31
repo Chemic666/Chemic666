@@ -1,209 +1,195 @@
 <div align="center">
 
-# `ZHAN-CM`
+<sub><b>SOFTWARE ENGINEERING / BACKEND SYSTEMS / AI TOOLING</b></sub>
 
-### `SOFTWARE ENGINEERING // BACKEND // AI SYSTEMS`
+# CHEMIC<span>_</span>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=%3E+Building+systems%2C+not+just+writing+code.;%3E+Java+Backend+%2F%2F+AI+Agents+%2F%2F+Open+Source;%3E+Learn.+Build.+Ship.+Iterate." alt="Typing SVG" />
+**Building software worth understanding — and worth using.**
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Learn+the+fundamentals.;Understand+the+trade-offs.;Build.+Verify.+Ship.+Iterate.;Java+Backend+%2F%2F+AI+Systems+%2F%2F+DevTools" alt="Animated engineering motto" />
 
-<img src="https://img.shields.io/github/followers/zhan-cm?style=flat-square&logo=github&label=FOLLOWERS&color=0D1117&labelColor=161B22" />
-<img src="https://img.shields.io/github/stars/zhan-cm?style=flat-square&logo=github&label=STARS&color=0D1117&labelColor=161B22" />
-<img src="https://komarev.com/ghpvc/?username=zhan-cm&style=flat-square&color=0D1117&label=PROFILE+VIEWS" />
+<br>
+
+<a href="https://github.com/Chemic666?tab=followers"><img src="https://img.shields.io/github/followers/Chemic666?style=flat-square&logo=github&label=FOLLOWERS&color=58A6FF&labelColor=161B22" alt="GitHub followers"></a>
+<a href="https://github.com/Chemic666?tab=repositories"><img src="https://img.shields.io/github/stars/Chemic666?style=flat-square&logo=github&label=STARS&color=58A6FF&labelColor=161B22" alt="GitHub stars"></a>
+<img src="https://komarev.com/ghpvc/?username=Chemic666&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views">
+
+<br><br>
+
+<a href="https://github.com/Chemic666?tab=repositories&sort=updated">PROJECTS</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Chemic666?tab=overview">ACTIVITY</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/pulls?q=is%3Apr+author%3AChemic666">PULL REQUESTS</a>
 
 </div>
 
 ---
 
-## `> SYSTEM.INFO`
+### `01 // THE PERSON BEHIND THE COMMITS`
+
+I'm **Chemic**, a software engineering undergraduate exploring the intersection of **backend engineering**, **AI-assisted development**, and **developer experience**.
+
+I care about more than making a framework work. I want to understand the architecture, the trade-offs, the failure modes, and how to make software more reliable.
 
 ```yaml
-identity : zhan-cm
-role     : Software Engineering Student
-
-focus:
-  - Java Backend Engineering
-  - AI Agents
-  - Developer Tools
-  - Open Source
-
-status   : BUILDING
-mode     : LEARN -> BUILD -> SHIP -> ITERATE
+identity: Chemic
+github: Chemic666
+interests:
+  - Java & backend architecture
+  - AI agents & developer productivity
+  - Software testing & program analysis
+  - Open source and practical tools
+approach: "Learn → Understand → Build → Verify → Iterate"
 ```
 
-> I care about understanding how systems work, not only how frameworks are used.
-
----
-
-## `> TECH.MATRIX`
+### `02 // TOOLKIT`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/MyBatis_Plus-0D1117?style=for-the-badge&logo=apache&logoColor=58A6FF" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,git,github,maven,js,ts,nodejs,vscode&perline=6&theme=dark" alt="Java, Spring, MySQL, Redis, Docker, Git, GitHub, Maven, JavaScript, TypeScript, Node.js and VS Code" />
 
-<br/>
+<br>
 
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/AI_AGENTS-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF" />
+<sub>Java · Spring Boot · MyBatis · MySQL · Docker · Git · AI Agents · Automation</sub>
 
 </div>
 
 ---
 
-## `> GITHUB.TELEMETRY`
+### `03 // LIVE GITHUB SIGNALS`
 
 <div align="center">
 
-
-<a href="https://github.com/zhan-cm">
-  <img height="190" src="https://streak-stats.demolab.com?user=zhan-cm&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=6" />
-</a>
-
-</div>
-
-<div align="center">
-  <img src="./assets/github-metrics.svg" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" />
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
-</div>
-
----
-
-## `> CONTRIBUTION.CITY`
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
-</div>
-
----
-
-## `> CONTRIBUTION.PROTOCOL`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhan-cm/zhan-cm/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhan-cm/zhan-cm/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhan-cm/zhan-cm/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
----
-
-## `> Header SVG + 3D Contribution City`
-
-<div align="center">
-  
-  <img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/3c18e174-5511-4507-8e42-dd88132faea8" />
-
-  <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/1380a9c8-4772-44bc-88ae-0ac8a0cb2229" />
-
-</div>
-
----
-
-## `> CURRENT.MISSIONS`
+<!-- Generated by .github/workflows/metrics.yml and stored in this repository -->
+<img src="./assets/github-metrics.svg" width="100%" alt="Automatically refreshed GitHub metrics">
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🧠 Fundamentals</h3>
-      <p>Strengthen Java, CS basics, and problem-solving depth.</p>
-      <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-0D1117?style=flat-square&labelColor=161B22&color=58A6FF" />
-    </td>
-    <td width="50%">
-      <h3>⚙️ Backend Systems</h3>
-      <p>Build production-oriented backend projects with better engineering quality.</p>
-      <img src="https://img.shields.io/badge/STATUS-BUILDING-0D1117?style=flat-square&labelColor=161B22&color=58A6FF" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🤖 AI Agents</h3>
-      <p>Explore agent workflows, LLM applications, and intelligent tools.</p>
-      <img src="https://img.shields.io/badge/STATUS-EXPLORING-0D1117?style=flat-square&labelColor=161B22&color=58A6FF" />
-    </td>
-    <td width="50%">
-      <h3>🚀 Open Source</h3>
-      <p>Build developer tools and ship software people actually want to use.</p>
-      <img src="https://img.shields.io/badge/STATUS-ACTIVE-0D1117?style=flat-square&labelColor=161B22&color=58A6FF" />
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="GitHub contribution and activity summary">
+</td>
+<td width="50%">
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="100%" alt="GitHub repository and contribution statistics">
+</td>
+</tr>
 </table>
 
-## `> CURRENT.FOCUS`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JAVA%20%2F%20JVM-Deep%20Focus-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF" />
-<img src="https://img.shields.io/badge/BACKEND%20SYSTEMS-Building-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF" />
-<img src="https://img.shields.io/badge/AI%20AGENTS-Exploring-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/DEVELOPER%20TOOLS-Active-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF" />
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-Improving-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF" />
-<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-Learning-0D1117?style=for-the-badge&labelColor=161B22&color=58A6FF" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/streak-light.svg">
+  <img src="./profile/streak-light.svg" width="80%" alt="Automatically refreshed GitHub contribution streak">
+</picture>
 
 </div>
 
 ---
 
-## `> ENGINEERING.PROTOCOL`
+### `04 // CONTRIBUTION LANDSCAPE`
+
+<div align="center">
+
+**A year of code, seen from another angle.**
+
+<!-- Generated by .github/workflows/3d-contrib.yml -->
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D visualization of GitHub contributions">
+
+<!-- Generated by .github/workflows/snake.yml to the output branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chemic666/Chemic666/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chemic666/Chemic666/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Chemic666/Chemic666/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake">
+</picture>
+
+</div>
+
+---
+
+### `05 // SELECTED WORK`
+
+> A few things I'm building and learning from. For the actual latest activity, follow each repository.
 
 <table>
-  <tr>
-    <td width="50%">
-      <h4>01 · Fundamentals First</h4>
-      <p>Build strong foundations before relying on frameworks.</p>
-    </td>
-    <td width="50%">
-      <h4>02 · Understand Deeply</h4>
-      <p>Understand how things work before abstracting them away.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>03 · Debug Rationally</h4>
-      <p>Debug with evidence, not with blind guessing.</p>
-    </td>
-    <td width="50%">
-      <h4>04 · Useful > Complicated</h4>
-      <p>Prefer practical systems over unnecessarily complex ones.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>05 · Build > Talk</h4>
-      <p>Real projects matter more than empty statements.</p>
-    </td>
-    <td width="50%">
-      <h4>06 · Ship > Perfect</h4>
-      <p>Deliver working software, then iterate and improve.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[YanJi / 研迹](https://github.com/Chemic666/yanji)**
+
+Local-first Windows study planning, focus tracking, and progress visualization.
+
+<img src="https://img.shields.io/github/last-commit/Chemic666/yanji?style=flat-square&label=LAST%20COMMIT&color=58A6FF" alt="YanJi last commit">
+
+</td>
+<td width="50%" valign="top">
+
+**[RepoOnboard](https://github.com/Chemic666/RepoOnboard)**
+
+Codebase comprehension and onboarding for Java and Spring Boot repositories.
+
+<img src="https://img.shields.io/github/last-commit/Chemic666/RepoOnboard?style=flat-square&label=LAST%20COMMIT&color=58A6FF" alt="RepoOnboard last commit">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[AI Project Visualizer](https://github.com/Chemic666/ai-project-visualizer)**
+
+An exploration of making AI-assisted project work more observable.
+
+<img src="https://img.shields.io/github/last-commit/Chemic666/ai-project-visualizer?style=flat-square&label=LAST%20COMMIT&color=58A6FF" alt="AI Project Visualizer last commit">
+
+</td>
+<td width="50%" valign="top">
+
+**[KnowledgeAgent](https://github.com/Chemic666/KnowledgeAgent)**
+
+Retrieval-augmented knowledge assistance with an emphasis on traceable answers.
+
+<img src="https://img.shields.io/github/last-commit/Chemic666/KnowledgeAgent?style=flat-square&label=LAST%20COMMIT&color=58A6FF" alt="KnowledgeAgent last commit">
+
+</td>
+</tr>
 </table>
 
+<div align="center">
 
-<sub>
-  <code>CODE</code> •
-  <code>SYSTEMS</code> •
-  <code>INTELLIGENCE</code>
-</sub>
+**[VIEW ALL REPOSITORIES →](https://github.com/Chemic666?tab=repositories&sort=updated)**
 
-<br/><br/>
+</div>
 
-**`BUILD SOMETHING WORTH USING.`**
+---
+
+### `06 // HOW I ENGINEER`
+
+| Principle | Practice |
+|:--|:--|
+| **Understand before abstracting** | Learn the mechanisms beneath the APIs. |
+| **Evidence over guesswork** | Debug with observations and reproducible tests. |
+| **Practical over complicated** | Keep systems understandable and maintainable. |
+| **Ship, then improve** | Working software is the starting point, not the finish line. |
+
+<details>
+<summary><b>More activity metrics</b></summary>
+<br>
+
+<div align="center">
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="48%" alt="Repositories by language">
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="48%" alt="Productive time distribution">
+</div>
+
+</details>
+
+---
+
+<div align="center">
+
+<sub>CODE IS THE MEDIUM. UNDERSTANDING IS THE GOAL.</sub>
+
+<br>
+
+**BUILD SOMETHING WORTH USING.**
+
+<sub>Profile graphics are generated automatically by GitHub Actions; no manual image uploads required.</sub>
 
 </div>
